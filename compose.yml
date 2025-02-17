@@ -1,0 +1,18 @@
+services:
+  php-design-patterns:
+    container_name: php-design-patterns
+    stdin_open: true
+    tty: true
+    build: .
+    ports:
+      - "8080:80"
+    working_dir: /var/www/html
+    volumes:
+      - php-design-patterns:/var/www/html
+volumes:
+  php-design-patterns:
+    driver: local
+    driver_opts:
+      type: none
+      device: ${PWD}
+      o: bind
