@@ -11,6 +11,11 @@
                             Abstract Factory
                         </a>
                     </li>
+                    <li>
+                        <a href="/creational/builder" target="_blank">
+                            Builder
+                        </a>
+                    </li>
                 </ul>
             </li>
         </ul>
