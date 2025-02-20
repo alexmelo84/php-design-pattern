@@ -21,6 +21,10 @@
                             Factory Method
                         </a>
                     </li>
+                    <li>
+                        <a href="/creational/prototype" target="_blank">
+                            Prototype
+                        </a>
                 </ul>
             </li>
         </ul>
