@@ -16,6 +16,11 @@
                             Builder
                         </a>
                     </li>
+                    <li>
+                        <a href="/creational/factory-method" target="_blank">
+                            Factory Method
+                        </a>
+                    </li>
                 </ul>
             </li>
         </ul>
