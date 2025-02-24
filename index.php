@@ -25,6 +25,12 @@
                         <a href="/creational/prototype" target="_blank">
                             Prototype
                         </a>
+                    </li>
+                    <li>
+                        <a href="/creational/singleton" target="_blank">
+                            Singleton
+                        </a>
+                    </li>
                 </ul>
             </li>
         </ul>
