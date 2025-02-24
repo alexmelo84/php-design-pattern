@@ -60,7 +60,7 @@
 <?php
     include('../../components/header.php');
 ?>
-    <h1>Adapter </h1>
+    <h1>Adapter</h1>
 
     <p>Exemplo conceitual: <a href="https://refactoring.guru/design-patterns/adapter/php/example#example-1" target="_blank">https://refactoring.guru/design-patterns/adapter/php/example#example-1</a></p>
 

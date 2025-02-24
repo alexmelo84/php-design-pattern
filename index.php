@@ -41,6 +41,11 @@
                             Adapter
                         </a>
                     </li>
+                    <li>
+                        <a href="/patterns/structural/bridge" target="_blank">
+                            Bridge
+                        </a>
+                    </li>
                 </ul>
             </li>
         </ul>
