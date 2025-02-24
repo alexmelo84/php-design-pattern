@@ -33,6 +33,16 @@
                     </li>
                 </ul>
             </li>
+            <li>
+                Structural Patterns
+                <ul>
+                    <li>
+                        <a href="/patterns/structural/adapter" target="_blank">
+                            Adapter
+                        </a>
+                    </li>
+                </ul>
+            </li>
         </ul>
 <?php
     include('components/footer.php');
