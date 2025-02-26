@@ -102,7 +102,7 @@
 <?php
     include('../../components/header.php');
 ?>
-    <h1>Composite </h1>
+    <h1>Composite</h1>
 
     <p>Exemplo conceitual: <a href="https://refactoring.guru/design-patterns/composite#pseudocode" target="_blank">https://refactoring.guru/design-patterns/composite#pseudocode</a></p>
 

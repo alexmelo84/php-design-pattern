@@ -51,6 +51,11 @@
                             Composite
                         </a>
                     </li>
+                    <li>
+                        <a href="/patterns/structural/decorator" target="_blank">
+                            Decorator
+                        </a>
+                    </li>
                 </ul>
             </li>
         </ul>
