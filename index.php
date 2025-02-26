@@ -46,6 +46,11 @@
                             Bridge
                         </a>
                     </li>
+                    <li>
+                        <a href="/patterns/structural/composite" target="_blank">
+                            Composite
+                        </a>
+                    </li>
                 </ul>
             </li>
         </ul>
