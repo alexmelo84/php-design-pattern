@@ -56,6 +56,11 @@
                             Decorator
                         </a>
                     </li>
+                    <li>
+                        <a href="/patterns/structural/facade" target="_blank">
+                            Facade
+                        </a>
+                    </li>
                 </ul>
             </li>
         </ul>
