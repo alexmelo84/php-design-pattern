@@ -66,6 +66,10 @@
                             Flyweight
                         </a>
                     </li>
+                    <li>
+                        <a href="/patterns/structural/proxy" target="_blank">
+                            Proxy
+                        </a>
                 </ul>
             </li>
         </ul>
