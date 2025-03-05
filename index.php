@@ -79,6 +79,7 @@
                         <a href="/patterns/behavioral/chain-of-responsibility" target="_blank">
                             Chain of Responsibility
                         </a>
+                    </li>
                 </ul>
             </li>
         </ul>
