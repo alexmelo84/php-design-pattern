@@ -83,6 +83,7 @@
     <ul>
         <li>Arquivo texto: <?= $facadeText->generateFile('example-text.txt'); ?></li>
         <li>Arquivo PDF: <?= $facadePDF->generateFile('example-pdf.pdf'); ?></li>
+    </ul>
 <?php
     include('../../components/footer.php');
 ?>
