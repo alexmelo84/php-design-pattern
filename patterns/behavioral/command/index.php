@@ -76,7 +76,7 @@
 ?>
     <h1>Command</h1>
 
-    <p>Exemplo conceitual: <a href="https://refactoring.guru/design-patterns/chain-of-responsibility/php/example#example-0" target="_blank">https://refactoring.guru/design-patterns/chain-of-responsibility/php/example#example-0</a></p>
+    <p>Exemplo conceitual: <a href="https://refactoring.guru/design-patterns/command/php/example#example-0" target="_blank">https://refactoring.guru/design-patterns/command/php/example#example-0</a></p>
 
     <p>Command transforma uma requisição em um objeto com todos os dados da requisição.</p>
 
