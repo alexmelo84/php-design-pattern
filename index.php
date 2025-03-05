@@ -61,6 +61,11 @@
                             Facade
                         </a>
                     </li>
+                    <li>
+                        <a href="/patterns/structural/flyweight" target="_blank">
+                            Flyweight
+                        </a>
+                    </li>
                 </ul>
             </li>
         </ul>
