@@ -80,7 +80,7 @@
 
     <p>Command transforma uma requisição em um objeto com todos os dados da requisição.</p>
 
-    <p>Exemplo de lista de compras organizada pela ordem que os produtos são encontrados em determinado mercado.</p>
+    <p>No exemplo tem um caso de comando simples e outro complexo, onde o <i>invoker</i> recebe um objeto e pode realizar diversas operações.</p>
 
     <h2>Resultado:</h2>
     <ul>
