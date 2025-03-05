@@ -80,6 +80,11 @@
                             Chain of Responsibility
                         </a>
                     </li>
+                    <li>
+                        <a href="/patterns/behavioral/command" target="_blank">
+                            Command
+                        </a>
+                    </li>
                 </ul>
             </li>
         </ul>
