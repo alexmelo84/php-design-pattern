@@ -72,6 +72,15 @@
                         </a>
                 </ul>
             </li>
+            <li>
+                Behavioral Patterns
+                <ul>
+                    <li>
+                        <a href="/patterns/behavioral/chain-of-responsibility" target="_blank">
+                            Chain of Responsibility
+                        </a>
+                </ul>
+            </li>
         </ul>
 <?php
     include('components/footer.php');
