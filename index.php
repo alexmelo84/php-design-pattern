@@ -85,6 +85,11 @@
                             Command
                         </a>
                     </li>
+                    <li>
+                        <a href="/patterns/behavioral/iterator" target="_blank">
+                            Iterator
+                        </a>
+                    </li>
                 </ul>
             </li>
         </ul>
