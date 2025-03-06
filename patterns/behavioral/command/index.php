@@ -97,6 +97,7 @@
                 $invoker->run(new CreateUserCommand($user, 'Name', 'email'));
             ?>
         </li>
+    </ul>
 <?php
     include('components/footer.php');
 ?>
